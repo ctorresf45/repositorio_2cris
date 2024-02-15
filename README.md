@@ -1,2 +1,1 @@
-# repositorio_2cris
-este es repositorio del modulo 2 de clases henry
+este proyecto es una prueba de como crear un repositorio y clonarlo desde git hub a mi escritorio local
